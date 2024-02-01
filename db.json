@@ -14,16 +14,6 @@
       "id": "3",
       "nome": "João",
       "endereco": "Rua 25"
-    },
-    {
-      "id": 0,
-      "nome": "Paulo Lindo",
-      "endereco": "Rua Linda"
-    },
-    {
-      "id": 0,
-      "nome": "OI",
-      "endereco": "Rua d etest"
     }
   ]
 }
